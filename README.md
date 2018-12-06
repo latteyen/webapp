@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Hotel cloud PMS Thailand](http://www.acemsthailand.com/index)
 ### Markdown
-
+[Hotel in Chiang Mai near the night bazaar](http://www.yaangcome.com)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
